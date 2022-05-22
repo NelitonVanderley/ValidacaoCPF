@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 .formulario {
   margin-top: 5%;
 }
@@ -10,4 +11,18 @@
  
   color: rgba(66, 65, 65, 0.788);
 
+=======
+.formulario {
+  margin-top: 5%;
+}
+.jumbotron{
+  background-color: rgba(77, 134, 241, 0.658);
+  color: white;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.footer{
+ 
+  color: rgba(66, 65, 65, 0.788);
+
+>>>>>>> 7ddabced8f3c916cb0cfae1e01b3e1a7d7eedee3
 }
